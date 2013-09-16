@@ -10,7 +10,7 @@
         <Button Content="Расчет2" Height="23" HorizontalAlignment="Left" Margin="31,141,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
         <TextBox Height="23" HorizontalAlignment="Left" Margin="22,69,0,0" Name="tbN" VerticalAlignment="Top" Width="120" />
         <Button Content="Сохранить" Height="23" HorizontalAlignment="Left" Margin="31,276,0,0" Name="button3" VerticalAlignment="Top" Width="75" Click="button3_Click" />
-        <Button Content="Выход" Height="23" HorizontalAlignment="Left" Margin="148,276,0,0" Name="button4" VerticalAlignment="Top" Width="75" Click="button4_Click" />
+        <Button Content="Выход" Height="23" HorizontalAlignment="Left" Margin="165,276,0,0" Name="button4" VerticalAlignment="Top" Width="75" Click="button4_Click" />
         <Button Content="Расчет 3" Height="23" HorizontalAlignment="Left" Margin="31,170,0,0" Name="button5" VerticalAlignment="Top" Width="75" Click="button5_Click" />
         <Button Content="Расчет 4" Height="23" HorizontalAlignment="Left" Margin="31,199,0,0" Name="button6" VerticalAlignment="Top" Width="75" Click="button6_Click" />
         <Button Content="Расчет 5" Height="23" HorizontalAlignment="Left" Margin="31,228,0,0" Name="button7" VerticalAlignment="Top" Width="75" Click="button7_Click" />
